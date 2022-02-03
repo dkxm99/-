@@ -1,0 +1,4 @@
+﻿  1445.cpp
+C:\Users\Administrator\source\repos\144\144\1445.cpp(31,21): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\Administrator\source\repos\144\144\1445.cpp(31,17): warning C4309: '=': 상수 값이 잘립니다.
+  144.vcxproj -> C:\Users\Administrator\source\repos\144\Debug\144.exe
